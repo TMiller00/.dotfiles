@@ -1,3 +1,6 @@
+alias dc="docker compose"
+alias reload!=". $HOME/.zshrc"
+alias dev="cd $HOME/Developer"
 alias vim="nvim"
 alias vi="nvim"
 alias oldvim="\vim"
