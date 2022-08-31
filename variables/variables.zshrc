@@ -1,0 +1,2 @@
+export DOCKER_BUILDKIT=1
+export REACT_EDITOR=emacs
