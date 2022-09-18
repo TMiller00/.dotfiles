@@ -1,0 +1,10 @@
+session_name: 2-pane-vertical
+windows:
+  - window_name: default
+    layout: main-vertical
+    options:
+      main-pane-width: 40
+    panes:
+      - blank
+      - blank
+

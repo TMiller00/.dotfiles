@@ -1,1 +1,2 @@
-. /usr/local/opt/asdf/libexec/asdf.sh
+plugins=(asdf)
+. /opt/homebrew/opt/asdf/libexec/asdf.sh
